@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AUTHOR: Electric Sheep
+AUTHOR: Shin Zoqchiuq
 VERSION: v2022.04.08
 """
 import re, sys, getopt
